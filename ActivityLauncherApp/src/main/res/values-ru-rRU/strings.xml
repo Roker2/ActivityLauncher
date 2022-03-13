@@ -44,9 +44,9 @@
     <string name="filter_hint">пакет/действие</string>
     <string name="activity_settings">Настройки</string>
     <string name="settings_hide_private">Скрыть приватные действия</string>
-    <string name="settings_summary_hide_private">Скрыть приватные и отключеные действия, которые невозможно запустить без Root-доступа</string>
-    <string name="settings_allow_root">Предлагать опции с Root-правами</string>
-    <string name="settings_summary_allow_root">Разрешить запуск приватных действий с использованием Root-прав</string>
+    <string name="settings_summary_hide_private">Скрыть приватные и отключенные действия, которые невозможно запустить без доступа к Root</string>
+    <string name="settings_allow_root">Режим суперпользователя</string>
+    <string name="settings_summary_allow_root">Предлагать варианты по запуску действий с Root-правами</string>
     <string name="settings_language">Язык</string>
     <string name="settings_theme">Тема оформления</string>
     <string name="theme_default">Как в системе</string>
